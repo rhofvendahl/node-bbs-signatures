@@ -25,7 +25,7 @@
     "module_name": "index",
     "host": "https://github.com/mattrglobal/node-bbs-signatures/releases/download/",
     "remote_path": "{version}",
-    "package_name": "{node_abi}-{platform}-{arch}.tar.gz",
+    "package_name": "{node_abi}-{platform}-x64.tar.gz",
     "module_path": "./native"
   },
   "scripts": {
